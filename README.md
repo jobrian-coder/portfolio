@@ -1,3 +1,3 @@
 # portfolio
 JAY101:
-Introduction to me
+A visual introduction to me.
